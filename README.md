@@ -1,6 +1,6 @@
 # mascotas_app
 
-A new Flutter project.
+Tugas Kelompok Membuat Aplikasi Mobile Menggunakan Flutter
 
 ## Getting Started
 
